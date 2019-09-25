@@ -1,0 +1,6 @@
+rows = q0 (initial belief of being true)
+columns = p0 (negative publication rate)
+value = prob. of canonizing as true
+
+columns 1:5: hypothesis is actually false
+columns 6:10: hypothesis is actually true

@@ -1,0 +1,3 @@
+rows = p0 (negative publication rate)
+columns = alpha (false positive rate)
+value = prob. of canonizing as true

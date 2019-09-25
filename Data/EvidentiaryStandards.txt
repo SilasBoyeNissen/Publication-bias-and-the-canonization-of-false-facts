@@ -1,0 +1,7 @@
+rows = p0 (negative publication rate)
+columns = tau0 (lower canonization threshold)
+value = prob. of canonizing as true
+
+column 1: \tau_0=.1
+column 2: \tau_0=.01
+column 3: \tau_0=.001

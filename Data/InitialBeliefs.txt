@@ -1,0 +1,3 @@
+rows = q0 (initial belief of being true)
+columns = p0 (negative publication rate)
+value = prob. of canonizing as true
