@@ -2,7 +2,7 @@
 
 by Silas Boye Nissen, Tali Magidson, Kevin Gross, and Carl T. Bergstrom.
 
-Available online: https://elifesciences.org/articles/21451
+Available online: https://elifesciences.org/articles/21451.
 
 ########################################################################################
 
